@@ -1,0 +1,9 @@
+Lệnh git cơ bản:
+- git init: khởi tạo 1 kho chứa mới
+- git clone: sao chép 1 repository từ xa về local
+- git add: thêmm file hoặc thay đổi chỉ mục của git
+- git add .: thêm tất cả tệp tin vào vùng theo dõi
+- git status: xem trạng thái kho chứa và các tệp tin
+- git commit -m 'thông điệp commit'
+- git push -u <tên_remote> <tên_nhánh>: đẩy commit lần đầi tiên
+- git push : đẩy các lần sau
