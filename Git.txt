@@ -8,3 +8,5 @@ Lệnh git cơ bản:
 - git push -u <tên_remote> <tên_nhánh>: đẩy commit lần đầi tiên
 - git push : đẩy các lần sau
 - git reset : xóa commit cũ
+- git restore : khôi phục file bị xóa
+- git restore . : khôi phục tất cả file bị xóa
