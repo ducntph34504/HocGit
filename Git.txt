@@ -7,3 +7,4 @@ Lệnh git cơ bản:
 - git commit -m 'thông điệp commit'
 - git push -u <tên_remote> <tên_nhánh>: đẩy commit lần đầi tiên
 - git push : đẩy các lần sau
+- git reset : xóa commit cũ
